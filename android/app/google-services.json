@@ -8,6 +8,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:403965573310:android:c5c50130bad93d3bbf06ef",
+        "android_client_info": {
+          "package_name": "com.example.driver_rnd_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403965573310-slg68kts3e7ubtdg8olnr2pn1hbcpmnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcKqLkO8na_BrQw3sPDfVGEGLPwUdvr-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403965573310-slg68kts3e7ubtdg8olnr2pn1hbcpmnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:403965573310:android:ec6f9a7f6c5ca74ebf06ef",
         "android_client_info": {
           "package_name": "com.example.rdriderapp"
